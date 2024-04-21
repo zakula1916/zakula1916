@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon Eleman
 - 👀 I’m interested in Data science and data analysis projects
-- 🌱 I’m currently learning Data analysis, visualization, and machine learning model development.
+- 🌱 I’m a Data scientist specialist learning Data analysis, visualization, and machine learning model development.
 - 💞️ I’m looking to collaborate on Data science and data analysis projects
 - 📫 How to reach me at elemansimon@gmail.com.
 - 😄 Pronouns: Mr.
